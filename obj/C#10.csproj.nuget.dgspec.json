@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\C#10.csproj": {}
+    "c:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\C#10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\C#10.csproj": {
+    "c:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\C#10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\C#10.csproj",
+        "projectUniqueName": "c:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\C#10.csproj",
         "projectName": "C#10",
-        "projectPath": "C:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\C#10.csproj",
+        "projectPath": "c:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\C#10.csproj",
         "packagesPath": "C:\\Users\\guillermo.giachetti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\obj\\",
+        "outputPath": "c:\\Users\\guillermo.giachetti\\Documents\\Cd\\Cii Sharp _C#\\C#10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guillermo.giachetti\\AppData\\Roaming\\NuGet\\NuGet.Config"
