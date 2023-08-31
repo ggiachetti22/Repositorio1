@@ -42,6 +42,7 @@ namespace Prueba{
                     Console.WriteLine($"Nombre: {V.Nombre}, Edad: {V.Edad} años.");
                 }
 
+                Random azar = new Random();
                 Predicate<Prueba> Predicado = new Predicate<Prueba>(ExisteUser);
                 bool existe = gente.Exists(Predicado);
 
@@ -58,11 +59,11 @@ namespace Prueba{
                 StreamReader? ArchivoLectura = null;
                 String LineaEditada,LineaLectura;
                 int Contador = 0;
-                String frase = "Hola este es un mensaje para identificar Palabras Cláve y filtrarlas...!";
+                String frase = "Hola este es un mensaje para identificar Palabras Cláve Hay y filtrarlas...!";
                 String codigo = "[C]";
                 //TODO : Variables end;
                 //TODO : Instacias;
-                Random azar = new Random();
+
                 Regex regex = new Regex(codigo);
                 MatchCollection Coleccion = regex.Matches(frase); //TODO se crea una Colleccion/Array de lo buscado;
                 
@@ -70,6 +71,13 @@ namespace Prueba{
                 Console.WriteLine($"\nColeccion.Count: {Coleccion.Count}\nVista de la Colección: {string.Join(",",Coleccion)}\nregex: {regex}\nColección: {Coleccion}\n");
                 if(Coleccion.Count > 0) Console.WriteLine($"Se encontro una coincidencia");
                 else Console.WriteLine($"No se ha encontrado coincidencias");
+
+                regex = new Regex("[H]");
+                MatchCollection NuevaColeccion = regex.Matches(frase);
+                if(NuevaColeccion.Count > 0) Console.WriteLine($"Resultado {NuevaColeccion.Count} (H)");
+                else Console.WriteLine($"No se encontro nada..");
+
+
                 //TODO: Instacias end;
                 // Console.WriteLine($"");
                 // await Task.Delay(1000);
