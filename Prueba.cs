@@ -24,6 +24,7 @@ namespace Prueba{
         //     get => this.nombre;
         //     set => this.nombre = EXISTE(value);
         // }
-        public void Git() => Console.WriteLine($"Prueba de GitHub..!");
+        public void Git() => Console.WriteLine($"Prueba 1º de GitHub..!");
+        public void Hub() => Console.WriteLine($"Prueba 2º de GitHub..!");
     } // class;
 } // name;
