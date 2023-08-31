@@ -1,0 +1,15 @@
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\bin\Debug\net7.0\C#10.exe
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\bin\Debug\net7.0\C#10.deps.json
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\bin\Debug\net7.0\C#10.runtimeconfig.json
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\bin\Debug\net7.0\C#10.dll
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\bin\Debug\net7.0\C#10.pdb
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\C#10.csproj.AssemblyReference.cache
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\C#10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\C#10.AssemblyInfoInputs.cache
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\C#10.AssemblyInfo.cs
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\C#10.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\C#10.dll
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\refint\C#10.dll
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\C#10.pdb
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\C#10.genruntimeconfig.cache
+C:\Users\guillermo.giachetti\Documents\Cd\Cii Sharp _C#\C#10\obj\Debug\net7.0\ref\C#10.dll
